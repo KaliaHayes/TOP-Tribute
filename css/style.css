@@ -1,0 +1,47 @@
+body{
+	margin:50px;
+	background:black;
+	background-image: url("http://i.imgur.com/IwPT0VS.png");
+	background-repeat: no-repeat;
+	background-size:100%;
+	font-family:'Lato', sans-serif;
+	color:white;
+}
+
+.jumbotron{
+	background-color:black;
+	opacity:.55;
+}
+
+.row h1
+{
+	color:red;
+	font-size:45px;
+}
+
+p{
+	color:white;
+	text-indent: 50px;
+	text-align:justify;
+}
+
+a{
+	color:red;
+}
+
+a:hover{
+	color:white;
+	font-weight:bold;
+	
+}
+
+h2{
+	font-family:'Special Elite';
+	color:white;
+}
+
+.icon {
+	width:15px;
+	height:15px;
+	margin-left:5px;
+}
